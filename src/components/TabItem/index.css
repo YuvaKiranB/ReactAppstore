@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.button {
+  border-width: 0px;
+  font-family: roboto;
+  font-size: 16px;
+  padding: 10px;
+  color: #7b8794;
+  border-bottom-width: 3px;
+  border-bottom-color: #dfe2e5;
+  border-bottom-style: solid;
+  cursor: pointer;
+}
+
+.active {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+}
